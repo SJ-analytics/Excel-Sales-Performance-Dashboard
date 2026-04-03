@@ -25,9 +25,9 @@ The solution helps identify key revenue drivers, top-performing sales representa
 ## Summary Sheets
 Detailed supporting tables for deeper analysis:
 
-![Summary 1](summary-monthly-regional-category.png)
+![Summary 1](monthly-regional-category-summary.png)
 
-![Summary 2](summary-salesrep-channel.png)
+![Summary 2](salesRep-channel-summary.png)
 
 ---
 
